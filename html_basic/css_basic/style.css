@@ -1,3 +1,9 @@
+
+@media (max-width: 768px) {
+    body.works_on_smartphone {
+        display: block;
+    }
+}
 body {
     display: flex;
     flex-direction: column;
